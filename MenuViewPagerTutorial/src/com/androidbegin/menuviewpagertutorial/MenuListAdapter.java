@@ -51,7 +51,7 @@ public class MenuListAdapter extends BaseAdapter {
 		View itemView = inflater.inflate(R.layout.drawer_list_item, parent,
 				false);
 
-		// Locate the TextViews in drawer_list_item.xml
+		// Locate the TextViews in drawer_list_item.xmljvnfjvnfjvn
 		txtTitle = (TextView) itemView.findViewById(R.id.title);
 		txtSubTitle = (TextView) itemView.findViewById(R.id.subtitle);
 
